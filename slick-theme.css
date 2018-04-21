@@ -263,8 +263,8 @@ transform: rotate(45deg);
 
 div#slide-images{
     width: 480px;
-    height: auto;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: 0px;
     background: red;
 }
 
