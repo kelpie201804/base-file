@@ -262,7 +262,9 @@ transform: rotate(45deg);
 }
 
 div#slide-images{
-    margin: auto;
+    width: 480px;
+    height: auto;
+    margin: 0 auto;
 }
 
 
