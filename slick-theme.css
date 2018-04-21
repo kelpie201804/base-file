@@ -16,7 +16,7 @@
     src: url('./fonts/slick.eot?#iefix') format('embedded-opentype'), url('./fonts/slick.woff') format('woff'), url('./fonts/slick.ttf') format('truetype'), url('./fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
-.slick-prev,
+/*.slick-prev,
 .slick-next
 {
     font-size: 0;
@@ -247,7 +247,7 @@ transform: rotate(45deg);
     text-align: center;
 
     opacity: .25;
-    color: skyblue;
+    color: black;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -260,6 +260,11 @@ transform: rotate(45deg);
 .slick-dots li.slick-active button {
     background: #333;
 }
+
+div#slide-images{
+    margin: auto;
+}
+
 
 @media only screen and (max-width:768px)  {
 .slick-prev,
