@@ -270,6 +270,7 @@ div#slide-images{
 
 /*///////////////////////////////////////HOVER IMG/////////////*/
 
+.itemImg img,
 .itemThumbImg,
 .itemThumbImg img,
 .blogThumb,
@@ -282,6 +283,7 @@ div#slide-images{
     backface-visibility: hidden;
 }
 
+.itemImg img,
 .itemThumbImg img,
 .blogThumb img,
 .relatedItems ul li a img,
@@ -291,6 +293,8 @@ div#slide-images{
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
+
+.itemImg:hover img,
 .itemThumbImg:hover img,
 .blogThumb:hover img,
 .relatedItems ul li a:hover img,
@@ -298,6 +302,7 @@ div#slide-images{
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+
 .itemThumbImg .imgBox:hover img {
   -webkit-transform: scale(1.0) !important;
   transform: scale(1.0) !important; 
