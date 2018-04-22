@@ -265,6 +265,7 @@ div#slide-images{
     width: 480px;
     margin: 0 auto;
     background: red;
+    border:solid 1px #000;
 }
 
 
