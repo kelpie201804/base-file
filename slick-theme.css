@@ -263,14 +263,8 @@ transform: rotate(45deg);
 
 div#slide-images{
     width: 480px;
-    margin-left: auto;
-    margin-right: 0px;
+    margin: 0 auto;
     background: red;
-}
-
-h1{
-    margin-left: auto;
-    margin-right: 50px;
 }
 
 
