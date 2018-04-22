@@ -268,6 +268,41 @@ div#slide-images{
     border:solid 1px #000;
 }
 
+/*///////////////////////////////////////HOVER IMG/////////////*/
+
+.itemThumbImg,
+.itemThumbImg img,
+.blogThumb,
+.blogThumb img,
+.relatedItems ul li a,
+.relatedItems ul li a img,
+.main .blogListMain>.blog_inner  .blog_head_image a,
+.main .blogListMain>.blog_inner  .blog_head_image a img{
+    overflow: hidden;
+    backface-visibility: hidden;
+}
+
+.itemThumbImg img,
+.blogThumb img,
+.relatedItems ul li a img,
+.main .blogListMain>.blog_inner  .blog_head_image a img{
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.itemThumbImg:hover img,
+.blogThumb:hover img,
+.relatedItems ul li a:hover img,
+.main .blogListMain>.blog_inner  .blog_head_image a:hover img{
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.itemThumbImg .imgBox:hover img {
+  -webkit-transform: scale(1.0) !important;
+  transform: scale(1.0) !important; 
+}
+
 
 @media only screen and (max-width:768px)  {
 .slick-prev,
