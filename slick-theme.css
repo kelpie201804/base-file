@@ -262,7 +262,6 @@ transform: rotate(45deg);
 }
 
 div#slide-images{
-    width: 480px;
     margin: 0 auto;
     border:solid 1px #000;
 }
