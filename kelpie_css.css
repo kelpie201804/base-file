@@ -1,11 +1,11 @@
 @charset 'UTF-8';
 /* logo */
 div#logo_area{
-    width:80px;
-    /*border: solid red;*/
+    width:300px;
+    border: solid red;
     float: left; 
 }
 
 img.logo_img {
-    width:80px;
+    width:300px;
 }
