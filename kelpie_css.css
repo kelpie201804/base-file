@@ -2,5 +2,6 @@
 /* logo */
 div#logo_area img{
     width:120px;
+    border: solid red;
     float: left; 
 }
