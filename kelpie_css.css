@@ -5,3 +5,7 @@ div#logo_area{
     border: solid red;
     float: left; 
 }
+
+div#logo_area img {
+    width:120px;
+}
