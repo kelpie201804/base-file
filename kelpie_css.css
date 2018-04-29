@@ -6,6 +6,7 @@ div#logo_area{
     float: left; 
 }
 
-img.logoimg {
+img.logo_img {
+    margin:20px;
     width:120px;
 }
