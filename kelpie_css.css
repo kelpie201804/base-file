@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 /* logo */
-div#logo_area{
-    margin: auto 3px;
+div#logo_area img{
+    margin: 20px 20px;
     float: left; 
 }
