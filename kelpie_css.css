@@ -6,6 +6,6 @@ div#logo_area{
     float: left; 
 }
 
-div#logo_area img {
+div#logo_area a img {
     width:120px;
 }
