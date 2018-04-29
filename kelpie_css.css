@@ -1,7 +1,7 @@
 @charset 'UTF-8';
 /* logo */
 div#logo_area{
-    width:120;
+    width:120px;
     margin: 20px 20px;
     float: left; 
 }
