@@ -2,7 +2,7 @@
 /* logo */
 div#logo_area{
     /*width:300px;*/
-    border: solid red;
+    border: solid blue;
     float: left;
     margin-left: 10px;
 }
