@@ -2,10 +2,10 @@
 /* logo */
 div#logo_area{
     width: 100px;
-    border: solid yellow;
+    border: solid red;
     float: left;
     margin-left: 10px;
-    height: 78px;
+    height: 80px;
 }
 
 img.logo_img {
