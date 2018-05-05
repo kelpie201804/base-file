@@ -3,10 +3,10 @@
 div#logo_area{
     width: 100px;
     /*border: solid blue;*/
+    background-color: red;
     float: left;
     margin-left: 10px;
     height: 80px;
-    background-color: red;
 }
 
 img.logo_img {
