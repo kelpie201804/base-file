@@ -2,13 +2,13 @@
 /* logo */
 div#logo_area{
     width: 100px;
-    border: solid skyblue;
+    border: solid yellow;
     float: left;
     margin-left: 10px;
-    height: 80px;
+    height: 78px;
 }
 
 img.logo_img {
     width:100px;
-    margin:auto;
+    margin: 5 0 0 0px;
 }
