@@ -2,7 +2,7 @@
 /* logo */
 div#logo_area{
     width: 100px;
-    border: solid red;
+    border: solid black;
     float: left;
     margin-left: 10px;
     height: 80px;
@@ -10,5 +10,5 @@ div#logo_area{
 
 img.logo_img {
     width:100px;
-    margin: 5 0 0 0px;
+    margin-top: 5px;
 }
