@@ -1,12 +1,14 @@
 @charset 'UTF-8';
 /* logo */
 div#logo_area{
-    /*width:300px;*/
-    border: solid blue;
+    width: 100px;
+    border: solid skyblue;
     float: left;
     margin-left: 10px;
+    height: 80px;
 }
 
 img.logo_img {
     width:100px;
+    margin:auto;
 }
