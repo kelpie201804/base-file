@@ -1,4 +1,10 @@
 @charset 'UTF-8';
+
+/*body*/
+body{
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, 游ゴシック体, "ヒラギノ角ゴ Pro W3", メイリオ, sans-serif;
+}
+
 /* logo */
 div#logo_area{
     width: 100px;
