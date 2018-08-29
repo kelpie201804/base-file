@@ -30,3 +30,13 @@ p#about_txt{
 	text-align:center;
 	font-size:2em　!important;
 }
+
+p.page_title{
+    font-size: 40px;
+    font-family: 'Orator Std';
+    color: #42210B;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 60px;
+}
