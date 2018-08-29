@@ -17,5 +17,5 @@ img.logo_img {
 /*About Page*/
 p#about_txt{
 	text-align:center;
-	font-size:2em;
+	font-size:2em　!important;
 }
