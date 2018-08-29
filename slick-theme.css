@@ -261,6 +261,15 @@ transform: rotate(45deg);
     background: #333;
 }
 
+.visual {
+    width: auto;
+}
+.visual img {
+    width: 100%;
+    height: auto;
+}
+
+
 div#slide-images{
     /*width: 960px;*/
     margin: 0 auto;
