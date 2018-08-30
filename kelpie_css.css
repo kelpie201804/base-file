@@ -34,11 +34,11 @@ img.logo_img {
 /*About Page*/
 .main #about p#about_txt{
 	text-align:center;
-	font-size:2em;
+	font-size:80%;
 }
 
 .main #about p.page_title{
-    font-size: 30px;
+    font-size: 150%;
     font-family: 'Crimson Text';
     color: #42210B;
     text-align: center;
