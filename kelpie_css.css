@@ -65,4 +65,9 @@ img.logo_img {
     text-align: center;
 }
 
-
+.inquirySection dl dt {
+    font-size: 80%;
+    line-height: 16px;
+    color: #808080;
+    margin-bottom: 10px;
+}
