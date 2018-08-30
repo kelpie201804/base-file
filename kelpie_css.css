@@ -575,8 +575,8 @@ h1 a#logo{
 
 
 .main #about p {
-    font-size: 13px;
-    font-family: '繝偵Λ繧ｮ繝手ｧ偵ざ Pro', sans-serif;
+    /*font-size: 13px;*/
+    /*font-family: '繝偵Λ繧ｮ繝手ｧ偵ざ Pro', sans-serif;*/
     line-height: 1.4em;
     padding-bottom: 70px;
 }
@@ -1428,6 +1428,8 @@ section.tmpBox{
 
 }
 
+/*==============================================*/
+/*===============以下オリジナル===================*/
 /*==============================================*/
 
 
