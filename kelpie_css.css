@@ -8,6 +8,7 @@ body{
 
 .mainHeaderNavColor{
     font-family: "Crimson Text";
+    font-size:2em;
 }
 
 /* logo */
@@ -28,7 +29,7 @@ img.logo_img {
 /*About Page*/
 p#about_txt{
 	text-align:center;
-	font-size:2em　!important;
+	font-size:2em;
 }
 
 p.page_title{
