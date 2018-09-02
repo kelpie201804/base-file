@@ -1601,4 +1601,10 @@ img.logo_img {
         top:-38px;
     }
 
+    #baseMenu img {
+        display: inherit;
+        width: 20px;
+        height: 20px;
+    }
+
 }
