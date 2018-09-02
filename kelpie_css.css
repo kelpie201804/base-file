@@ -84,7 +84,7 @@ nav span:hover {
 -------------------------------------------------------------- */
 
 #content {
-    width: 960px;
+    width: 100%;
     margin: 0 auto 100px;
     *zoom: 1;
 }
@@ -97,7 +97,7 @@ nav span:hover {
 }
 
 .container #header {
-    width: 960px;
+    width: 100%;
     height: 17px;
     margin: 0 auto;
     padding: 31.5px 0;
@@ -130,9 +130,10 @@ nav span:hover {
     opacity: 0.6;
 }
 
+/*
 #logo {
     margin: 90px auto 60px;
-    max-width: 960px;
+    max-width: 100%;
     text-align: center;
 }
 
@@ -149,6 +150,7 @@ h1 a#logo{
     word-wrap: break-word;
     letter-spacing: 2px;
 }
+*/
 
 /* navigation
 -------------------------------------------------------------- */
@@ -273,7 +275,7 @@ h1 a#logo{
 /* .childCategoryList01
 -------------------------------------------------------------- */
 .childCategoryList01 {
-    width: 960px;
+    width: 100%;
     margin: -30px auto 60px;
     text-align: center;
 }
@@ -544,7 +546,7 @@ h1 a#logo{
 -------------------------------------------------------------- */
 
 .main {
-    width: 960px;
+    width: 100%;
     height: auto;
     margin: 0 auto 30px;
     background: #fff;
@@ -864,7 +866,7 @@ h1 a#logo{
 /* footer
 -------------------------------------------------------------- */
 footer {
-    width: 960px;
+    width: 100%;
     position: relative;
     margin: 50px auto 0;
     padding-bottom: 30px;
@@ -986,7 +988,7 @@ footer #social_button{
 /* Pinned Blog
 -------------------------------------------------------------- */
 .pinnedBlog {
-  width: 960px;
+  width: 100%;
   margin: 0 auto;
 }
 .pinnedBlog .pinnedBlog_title{
@@ -1363,7 +1365,7 @@ section.tmpBox{
     margin: 0 auto;
     padding: 50px 0;
     text-align: center;
-    width: 960px;
+    width: 100%;
 }
 
 
