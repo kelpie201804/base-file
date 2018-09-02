@@ -1503,6 +1503,11 @@ img.logo_img {
     margin-bottom: 10px;
 }
 
+
+/*====================================================================
+ Shoulder
+====================================================================*/
+
 #Shoulder {
     background-color:  #cccccc;
             color:#fff;
@@ -1513,6 +1518,17 @@ img.logo_img {
     margin:0 auto;
     text-align:left;
     overflow: hidden;
+}
+
+#Shoulder .shoulderCol p {
+    margin:0;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:400;
+    letter-spacing:0.1em;
+    width:100%;
+    float:left;
+    padding:7px 0;
 }
 
 @media screen and ( max-width:479px )
