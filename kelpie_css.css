@@ -1529,4 +1529,10 @@ img.logo_img {
         display:none;
     }
 
+    #content {
+        width: 100%;
+        margin: 0 auto 100px;
+        *zoom: 1;
+    }
+
 }
