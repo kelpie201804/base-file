@@ -1521,4 +1521,8 @@ img.logo_img {
         margin: 0 5px;
     }
 
+    .theme--2 .container #header nav ul li {
+        display:none;
+    }
+
 }
