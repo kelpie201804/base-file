@@ -1521,7 +1521,11 @@ img.logo_img {
         margin: 0 5px;
     }
 
-    .theme--2 .container #header nav ul li {
+    .theme--2 .container #header nav ul li.columnitemSearch {
+        display:none;
+    }
+
+    .theme--2 .container #header nav ul li.languageSelect {
         display:none;
     }
 
