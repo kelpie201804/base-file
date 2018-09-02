@@ -1539,14 +1539,11 @@ img.logo_img {
         position: relative;
         width: 200px;
         height: 200px;
-        margin: 10px;
+        margin: 5px;
         background-color: #FFF;
         float: left;
     }
-    .item-container:hover .item-detail {
-            opacity:1;
-        bottom: 0px;
-    }
+
     .item-container a {
         position: relative;
         width: 200px;
@@ -1560,7 +1557,7 @@ img.logo_img {
     }
 
     .item-img {
-        margin: 15px;
+        margin: 7.5px;
         width: 180px;
         height: 180px;
         overflow: hidden;
@@ -1578,7 +1575,7 @@ img.logo_img {
             opacity:0;
         width: 180px;
         overflow: hidden;
-        margin: 15px;
+        margin: 7.5px;
         position: absolute;
         bottom: -163px;
         -webkit-transition-duration: 0.3s;
