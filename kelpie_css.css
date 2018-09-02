@@ -1597,4 +1597,8 @@ img.logo_img {
         transition-timing-function: ease-in-out;
     }
 
+    #baseMenu{
+        top:-38px;
+    }
+
 }
