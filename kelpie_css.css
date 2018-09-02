@@ -124,7 +124,7 @@ nav span:hover {
 }
 
 .container #header nav ul li a {
-    font-size: 9px;
+    font-size: 30px;
 }
 .container #header nav ul li a:hover {
     opacity: 0.6;
