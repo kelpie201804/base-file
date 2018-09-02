@@ -1509,6 +1509,13 @@ img.logo_img {
         color: #f00 ;   /* 赤色 */
     }
 
+
+    #content {
+        width: 100%;
+        margin: 0 auto 100px;
+        *zoom: 1;
+    }
+
     .container #header {
         width: 100%;
     }
