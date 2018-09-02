@@ -1513,4 +1513,12 @@ img.logo_img {
         width: 100%;
     }
 
+    .container #header nav ul li {
+        font-size: 5px;
+        font-family: 'Orator Std';
+        letter-spacing: 0.2px;
+        text-align: center;
+        margin: 0 5px;
+    }
+
 }
