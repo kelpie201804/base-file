@@ -1508,6 +1508,12 @@ img.logo_img {
             color:#fff;
 }
 
+#Shoulder .shoulderCol{
+    width:100%;
+    margin:0 auto;
+    text-align:left;
+    overflow: hidden;
+}
 
 @media screen and ( max-width:479px )
 {
