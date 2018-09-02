@@ -97,7 +97,7 @@ nav span:hover {
 }
 
 .container #header {
-    width: 100%;
+    width: 960px;
     height: 17px;
     margin: 0 auto;
     padding: 31.5px 0;
@@ -1508,4 +1508,9 @@ img.logo_img {
     {
         color: #f00 ;   /* 赤色 */
     }
+
+    .container #header {
+        width: 100%;
+    }
+
 }
