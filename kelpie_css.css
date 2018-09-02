@@ -1618,10 +1618,10 @@ img.logo_img {
         -o-transition-timing-function: ease-in-out;
         transition-timing-function: ease-in-out;
     }
-/*
+
     #baseMenu{
-        top:-38px;
-    }*/
+        top:2px;
+    }
 
     #baseMenu img {
         display: inherit;
