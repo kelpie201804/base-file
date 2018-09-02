@@ -124,7 +124,7 @@ nav span:hover {
 }
 
 .container #header nav ul li a {
-    font-size: 1em;
+    font-size: ;
 }
 .container #header nav ul li a:hover {
     opacity: 0.6;
@@ -1454,7 +1454,7 @@ div#logo_area{
     /*background-color: red;*/
     float: left;
     margin-left: 20px;
-    height: 80px;
+    height: 85px;
 }
 
 img.logo_img {
