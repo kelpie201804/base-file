@@ -1503,6 +1503,11 @@ img.logo_img {
     margin-bottom: 10px;
 }
 
+#Shoulder {
+    background-color:  #cccccc;
+            color:#fff;
+}
+
 
 @media screen and ( max-width:479px )
 {
@@ -1605,6 +1610,10 @@ img.logo_img {
         display: inherit;
         width: 20px;
         height: 20px;
+    }
+
+    #Shoulder .shoulderCol{
+        padding:5px;
     }
 
 }
