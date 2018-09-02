@@ -1550,13 +1550,13 @@ img.logo_img {
         font-family: 'Orator Std';
         letter-spacing: 0.2px;
         text-align: center;
-        margin: 0 5px;
+        margin: 0 6px;
     }
-
+/*
     .theme--2 .container #header nav ul li.column.itemSearch {
         display:none;
     }
-
+*/
     .theme--2 .container #header nav ul li.languageSelect {
         display:none;
     }
