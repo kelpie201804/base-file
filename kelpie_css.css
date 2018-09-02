@@ -1511,11 +1511,6 @@ img.logo_img {
 
 @media screen and ( max-width:479px )
 {
-    p
-    {
-        color: #f00 ;   /* 赤色 */
-    }
-
 
     #content {
         width: 100%;
@@ -1614,6 +1609,11 @@ img.logo_img {
 
     #Shoulder .shoulderCol{
         padding:5px;
+    }
+
+    #Shoulder .shoulderCol p{
+        width:65%;
+        margin: 0 auto;
     }
 
 }
