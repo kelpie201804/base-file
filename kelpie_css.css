@@ -1651,4 +1651,11 @@ img.logo_img {
         padding: 35px 20px;
         width: 360px;
     }
+
+    #item_page_wrap #first_column{
+        float: left;
+        width: 320px;
+    }
+
+
 }
