@@ -1516,7 +1516,8 @@ img.logo_img {
 }
 
 #Shoulder .shoulderCol{
-    width:100%;
+    width:94%;
+    padding:5px 0;
     margin:0 auto;
     text-align:left;
     overflow: hidden;
