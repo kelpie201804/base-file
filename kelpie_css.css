@@ -1445,7 +1445,7 @@ body{
 
 .mainHeaderNavColor{
     font-family: "Crimson Text";
-    font-size:2em;
+    font-size:1em;
 }
 
 /* logo */
@@ -1642,4 +1642,7 @@ img.logo_img {
         margin: 0 auto;
     }
 
+    .mainHeaderNavColor{
+        font-size:2em;
+    }
 }
