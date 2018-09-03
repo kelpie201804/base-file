@@ -1646,6 +1646,10 @@ img.logo_img {
         font-size:2em;
     }
 
+    #slide_images{
+        display: none;
+    }
+
     #item_page_wrap{
         margin: 0 auto;
         padding: 35px 20px;
