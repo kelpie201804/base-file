@@ -1663,6 +1663,20 @@ img.logo_img {
         width: 320px;
     }
 
+    #item_page_wrap .bxslider .img_box{
+        height: 320px;
+        line-height: 320px;
+        text-align: center;
+        vertical-align: middle;
+        width: 320px;
+
+    }
+    #item_page_wrap .bxslider .img_box img{
+        max-height: 320px;
+        max-width: 320px;
+        vertical-align: middle;
+    }
+
     #item_page_wrap #bx-pager{
         margin: 20px -12px 0 0;
         overflow: hidden;
