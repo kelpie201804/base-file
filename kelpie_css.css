@@ -1324,6 +1324,7 @@ nav ul.menu {
 #mainFooter a{
   color: #333;
   font-size: 12px;
+  margin: 0 5px;
 }
 #mainFooter ul li{
   float: left;
