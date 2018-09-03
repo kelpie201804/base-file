@@ -1657,5 +1657,10 @@ img.logo_img {
         width: 320px;
     }
 
+    /* jquery.bxslider */
+    .bx-wrapper{
+        height: 320px;
+        width: 320px;
+    }
 
 }
