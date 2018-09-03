@@ -1669,4 +1669,9 @@ img.logo_img {
         width: 332px;
     }
 
+    #item_page_wrap #second_column{
+        float: left;
+        width: 380px;
+    }
+
 }
