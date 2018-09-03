@@ -1714,4 +1714,8 @@ img.logo_img {
         -o-border-radius: 5px;
     }
 
+    .inquirySection .control-panel input#buttonLeave {
+        width: 300px;
+    }
+
 }
