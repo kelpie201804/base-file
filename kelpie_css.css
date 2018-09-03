@@ -1663,4 +1663,10 @@ img.logo_img {
         width: 320px;
     }
 
+    #item_page_wrap #bx-pager{
+        margin: 20px -12px 0 0;
+        overflow: hidden;
+        width: 332px;
+    }
+
 }
