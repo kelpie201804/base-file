@@ -1645,4 +1645,10 @@ img.logo_img {
     .mainHeaderNavColor{
         font-size:2em;
     }
+
+    #item_page_wrap{
+        margin: 0 auto;
+        padding: 35px 20px;
+        width: 100%;
+    }
 }
