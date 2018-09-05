@@ -1659,6 +1659,11 @@ img.logo_img {
         width: 320px;
     }
 
+   li.product_list{
+        width:50%;
+        float: left;
+   }
+
     /* jquery.bxslider */
     .bx-wrapper{
         height: 320px;
