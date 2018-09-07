@@ -1552,12 +1552,16 @@ img.logo_img {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+
 }
 
 .StartPage_box p{
     font-family: "Crimson Text";
     font-size:3em;
 }
+
 
 
 @media screen and ( max-width:479px )
