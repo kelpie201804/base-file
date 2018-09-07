@@ -1535,6 +1535,25 @@ img.logo_img {
     padding:7px 0;
 }
 
+.StartPage_box{
+  width: 100vw;
+  height: 100vh;
+
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+
+  /* 左右中央寄せ */
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+
+  /* 上下中央寄せ */
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
 @media screen and ( max-width:479px )
 {
 
