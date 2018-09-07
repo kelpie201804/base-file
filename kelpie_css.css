@@ -1537,8 +1537,9 @@ img.logo_img {
 
 .StartPage_box{
   width: 100vw;
-  height: 100vh;
-
+  height: auto;
+  min-height: 100vh;
+  
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
