@@ -1560,6 +1560,9 @@ img.logo_img {
 
     background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 
+}
+
+.fadein{
     -webkit-animation: fadeIn 1.5s ease 0s 1 normal;
     animation: fadeIn 1.5s ease 0s 1 normal;
 }
