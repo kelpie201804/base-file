@@ -1558,7 +1558,8 @@ img.logo_img {
   -ms-flex-align: center;
   align-items: center;
 
-    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    /*background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);*/
+    background-image: url(https://basefile.akamaized.net/kelpie/5b967e34202ec/E5908DE7A7B0E69CAAE8A8ADE5AE9AE382A2E383BCE38388E383AFE383BCE382AF2.PNG);
 
 }
 
