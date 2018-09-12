@@ -1582,8 +1582,8 @@ img.logo_img {
     font-size:3em;
     line-height: 4em;
     color:#ffffff;
-    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
-                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 30%, #FDB931 33%, #a57202 39%, #cca22b 45%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #ffe100 10%, #382900 28%, #b59745 55%, #7d6428 62.5%, #82631d 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
