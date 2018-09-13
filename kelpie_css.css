@@ -1586,7 +1586,6 @@ img.logo_img {
                 radial-gradient(ellipse farthest-corner at left top, #ffe100 10%, #382900 28%, #b59745 55%, #7d6428 62.5%, #82631d 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0 -1px 1px #fff, 1px 1px 1px #000;
 }
 
 /*====================================================================
