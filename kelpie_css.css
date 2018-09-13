@@ -1592,7 +1592,7 @@ img.logo_img {
  fadein
 ====================================================================*/
 
-/*
+
 .fadein {
     opacity : 0;
     transform : translate(0, 50px);
@@ -1602,7 +1602,7 @@ img.logo_img {
     opacity : 1;
     transform : translate(0, 0);
 }
-*/
+
 
 
 
