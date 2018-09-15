@@ -1652,14 +1652,8 @@ img.logo_img {
 
     .item-container a {
         /*position: relative;*/
-        width: 180px;
-        height: 180px;
-        text-decoration: none;
-        display: block;
-        overflow: hidden;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
+        width: 360px;
+        height: 360px;
     }
 
     .item-img {
