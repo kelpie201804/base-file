@@ -367,7 +367,7 @@ h1 a#logo{
 .item-detail .price {
     font-size: 12px;
     padding: 5px 0;
-    color: #4D4D4D;
+    color: #808080;
     background-color: #ffffff;
 }
 .item-detail .discountPrice {
@@ -401,7 +401,7 @@ h1 a#logo{
 .soldout .price {
     font-size: 12px;
     padding: 5px 0;
-    color: #4D4D4D;
+    color: #808080;
     float: left;
     text-decoration: line-through;
     background-color: #ffffff;
