@@ -309,10 +309,14 @@ h1 a#logo{
     background-color: #FFF;
     float: left;
 }
+
+/*
 .item-container:hover .item-detail {
     opacity:1;
-    /*bottom: 0px;*/
+    bottom: 0px;
 }
+*/
+
 .item-container a {
     /*position: relative;*/
     width: 300px;
