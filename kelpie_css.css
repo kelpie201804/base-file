@@ -341,12 +341,12 @@ h1 a#logo{
 }
 
 .item-detail {
-    opacity:0;
+    /*opacity:0;*/
     width: 270px;
     overflow: hidden;
     margin: 15px;
     position: absolute;
-    bottom: -163px;
+    /*bottom: -163px;*/
     -webkit-transition-duration: 0.3s;
     -moz-transition-duration: 0.3s;
     -o-transition-duration: 0.3s;
