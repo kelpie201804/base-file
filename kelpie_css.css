@@ -366,7 +366,7 @@ h1 a#logo{
 }
 .item-detail .price {
     font-size: 12px;
-    padding: 15px 0;
+    padding: 5px 0;
     color: #4D4D4D;
     background-color: #ffffff;
 }
@@ -400,7 +400,7 @@ h1 a#logo{
 
 .soldout .price {
     font-size: 12px;
-    padding: 15px 0;
+    padding: 5px 0;
     color: #4D4D4D;
     float: left;
     text-decoration: line-through;
@@ -431,12 +431,12 @@ h1 a#logo{
 
 .soldout .item-name {
     font-size: 12px;
-    height: 44px;
+    height: 22px;
     color: #4D4D4D;
     background-color: #ffffff;
     text-align: left;
     clear: both;
-    padding-top: 25px;
+    padding-top: 10px;
     word-wrap: break-word;
     text-overflow: ellipsis;
     white-space: nowrap;
