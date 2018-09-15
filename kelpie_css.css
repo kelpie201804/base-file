@@ -302,7 +302,7 @@ h1 a#logo{
 /* item display
 -------------------------------------------------------------- */
 .item-container {
-    position: relative;
+    /*position: relative;*/
     width: 300px;
     height: 300px;
     margin: 10px;
@@ -314,7 +314,7 @@ h1 a#logo{
     bottom: 0px;
 }
 .item-container a {
-    position: relative;
+    /*position: relative;*/
     width: 300px;
     height: 300px;
     text-decoration: none;
@@ -1642,7 +1642,7 @@ img.logo_img {
     }
 
     .item-container {
-        position: relative;
+        /*position: relative;*/
         width: 180px;
         height: 180px;
         margin: 0 auto;
@@ -1651,7 +1651,7 @@ img.logo_img {
     }
 
     .item-container a {
-        position: relative;
+        /*position: relative;*/
         width: 180px;
         height: 180px;
         text-decoration: none;
