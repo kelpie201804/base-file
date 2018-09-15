@@ -1644,7 +1644,7 @@ img.logo_img {
     .item-container {
         /*position: relative;*/
         width: 180px;
-        height: 180px;
+        height: 360px;
         margin: 0 auto;
         background-color: #FFF;
         float: none;
@@ -1653,7 +1653,7 @@ img.logo_img {
     .item-container a {
         /*position: relative;*/
         width: 180px;
-        height: 360px;
+        height: 180px;
     }
 
     .item-img {
