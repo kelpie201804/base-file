@@ -1607,8 +1607,38 @@ img.logo_img {
     transform : translate(0, 0);
 }
 
+/*====================================================================
+ MoreItems
+====================================================================*/
+
+#moteItems{
+    padding:0 10%;
+}
+
+.vm{
+    text-align:center;
+    width:100%;
+    margin:20px 0px auto;
+}
+
+.btnEff a{
+    color:#000000;
+    border:1px solid #000000;
+    background-color:#ffffff;
+    display:inline-block;
+    padding:15px 0 ;
+    font-size:12px;
+    transition:all .5s ease;
+    z-index:2;
+    position:relative;
+    width:100%;
+    height: 100%;
+}
 
 
+/*====================================================================
+ Responsive
+====================================================================*/
 
 @media screen and ( max-width:479px )
 {
