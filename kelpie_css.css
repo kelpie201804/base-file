@@ -1611,7 +1611,7 @@ img.logo_img {
  MoreItems
 ====================================================================*/
 
-#moteItems{
+#moreItems{
     padding:0 10%;
 }
 
@@ -1621,7 +1621,7 @@ img.logo_img {
     margin:20px 0px auto;
 }
 
-.btnEff a{
+.btn a{
     color:#000000;
     border:1px solid #000000;
     background-color:#ffffff;
