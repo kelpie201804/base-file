@@ -1545,28 +1545,28 @@ img.logo_img {
 
 
 .StartPage_box{
-  width: 100vw;
-  height: 100vh;
+	width: 100vw;
+	height: 100vh;
+	opacity: 0;
 
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
 
-  /* 左右中央寄せ */
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+	/* 左右中央寄せ */
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
 
-  /* 上下中央寄せ */
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+	/* 上下中央寄せ */
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
 
-    /*background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);*/
-    background-image: url(https://basefile.akamaized.net/kelpie/5b967e34202ec/E5908DE7A7B0E69CAAE8A8ADE5AE9AE382A2E383BCE38388E383AFE383BCE382AF2.PNG);
-    background-size: cover;
+	/*background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);*/
+	background-image: url(https://basefile.akamaized.net/kelpie/5b967e34202ec/E5908DE7A7B0E69CAAE8A8ADE5AE9AE382A2E383BCE38388E383AFE383BCE382AF2.PNG);
+	background-size: cover;
 }
-
 
 .fadein-s{
     -webkit-animation: fadeIn 5s linear 0s 1 alternate;
@@ -1831,4 +1831,7 @@ img.logo_img {
         width: 300px;
     }
 
+	.StartPage_box{
+		background-image: url("https://basefile.akamaized.net/kelpie/5ba746d6efbc1/kelpie_topimage_mobile.jpg");
+	}
 }
