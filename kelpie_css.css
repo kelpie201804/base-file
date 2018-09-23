@@ -1588,8 +1588,12 @@ img.logo_img {
     font-size:3em;
     line-height: 4em;
     color:#ffffff;
+    /*
     background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 30%, #FDB931 33%, #a57202 39%, #cca22b 45%, transparent 80%),
                 radial-gradient(ellipse farthest-corner at left top, #ffe100 10%, #382900 28%, #b59745 55%, #7d6428 62.5%, #82631d 100%);
+    */
+
+    background: -webkit-linear-gradient(left, #8f6B29, #FDE08D 60%, #DF9F28);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
