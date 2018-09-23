@@ -1807,7 +1807,7 @@ img.logo_img {
     }
 
     .inquirySection dl dd input {
-        width: 278px;
+        width: 253px;
         padding: 10px;
         border: 1px solid #c4c4c4;
         border-radius: 5px;
@@ -1816,7 +1816,7 @@ img.logo_img {
         -o-border-radius: 5px;
     }
     .inquirySection dl dd textarea {
-        width: 278px;
+        width: 253px;
         height: 135px;
         padding: 10px;
         border: 1px solid #c4c4c4;
@@ -1827,7 +1827,7 @@ img.logo_img {
     }
 
     .inquirySection .control-panel input#buttonLeave {
-        width: 300px;
+        width: 275px;
     }
 
 	.StartPage_box{
