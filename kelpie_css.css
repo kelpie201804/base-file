@@ -1601,7 +1601,7 @@ img.logo_img {
 
 .fadein {
     opacity : 0.1;
-    transform : translate(0, 60px);
+    transform : translate(0, 50px);
     transition : all 1000ms;
 }
 .fadein.scrollin {
