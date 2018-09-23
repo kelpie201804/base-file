@@ -1567,6 +1567,7 @@ img.logo_img {
     background-size: cover;
 }
 
+/*
 .fadein{
     -webkit-animation: fadeIn 2.5s ease 0s 1 normal;
     animation: fadeIn 2.5s ease 0s 1 normal;
@@ -1580,6 +1581,7 @@ img.logo_img {
     0% {opacity: 0}
     100% {opacity: 1}
 }
+*/
 
 .StartPage_box p{
     font-family: "Crimson Text";
@@ -1600,7 +1602,7 @@ img.logo_img {
 .fadein {
     opacity : 0;
     transform : translate(0, 50px);
-    transition : all 300ms;
+    transition : all 600ms;
 }
 .fadein.scrollin {
     opacity : 1;
