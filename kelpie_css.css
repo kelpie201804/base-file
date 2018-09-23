@@ -1569,8 +1569,8 @@ img.logo_img {
 
 
 .fadein-s{
-    -webkit-animation: fadeIn 2.5s ease 0s 1 normal;
-    animation: fadeIn 2.5s ease 0s 1 normal;
+    -webkit-animation: fadeIn 5s linear 0s infinite alternate;
+    animation: fadeIn 5s linear 0s infinite alternate;
 }
 
 @keyframes fadeIn {
