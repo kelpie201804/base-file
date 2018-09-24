@@ -1317,7 +1317,7 @@ nav ul.menu {
     float:left;
 }
 .boxRight{
-  float: right !important;
+  /*float: right !important;*/
 }
 
 
@@ -1331,7 +1331,8 @@ nav ul.menu {
   margin: 0 5px;
 }
 #mainFooter ul li{
-  float: left;
+  /*float: left;*/
+  display: inline-block;
   line-height: 30px;
   margin: 0 30px 0 0;
 }
