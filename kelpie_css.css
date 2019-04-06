@@ -1309,6 +1309,7 @@ nav {
 
 nav ul.menu {
     display: inline-block;
+    padding: 5px 0px;
 }
 
 .menu li {
