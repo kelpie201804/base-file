@@ -1462,12 +1462,12 @@ div#logo_area{
     float: left;
     margin-left: 10px;
     margin-right: 10px;
-    height: 90px;
+    height: 40px;
 }
 
 img.logo_img {
     width:100px;
-    margin-top: 13.707px;
+    /* margin-top: 13.707px; */
 }
 
 /*About Page*/
